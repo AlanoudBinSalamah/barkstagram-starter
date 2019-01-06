@@ -9,11 +9,11 @@ const coolPics = [
   },
   {
     "title": "unlikely friends",
-    "source": "http://funnyworldnews.com/wp-content/uploads/2016/05/0-1.jpg"
+    "source": "http://home.bt.com/images/pug-puppy-and-fluffy-chick-are-best-of-friends-136397048585203901-150324115501.jpg"
   },
   {
     "title": "teacup",
-    "source": "https://cdn.pixabay.com/photo/2015/02/05/12/09/chihuahua-624924_960_720.jpg"
+    "source": "https://i.pinimg.com/originals/a9/5b/a5/a95ba5bf8866a8c60ec71fe6f3887ece.jpg"
   },
   {
     "title": "ups and downs",

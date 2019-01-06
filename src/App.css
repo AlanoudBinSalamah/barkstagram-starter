@@ -17,6 +17,7 @@ body {
   height: 400px;
   margin: 0 auto;
   margin-top: 50px;
+  object-fit: cover;
 }
 
 #likedpics {
@@ -54,10 +55,12 @@ body {
   background-color: rgb(255, 97, 97);
   margin: 10px;
   margin-bottom: 0px;
+  object-fit: cover;
 }
 
 #favorite-btn {
-  background-color: rgb(105, 182, 134);
+  /* background-color: rgb(105, 182, 134); */
+  background-color: grey;
   padding: 10px;
   color: white;
   width: 200px;
@@ -67,4 +70,12 @@ body {
 #fav-status {
   background-color: orange;
   padding: 5px;
+}
+
+.follow {
+  background-color: lightskyblue;
+}
+
+.unfollow {
+  background-color: steelblue
 }
